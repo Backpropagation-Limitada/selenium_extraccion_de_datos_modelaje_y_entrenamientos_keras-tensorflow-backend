@@ -12,7 +12,6 @@ try:
     all_items = driver.find_elements_by_xpath("//*[@id='Primera']/div[@id='PorCadaNorma']")
     h2index=range(1,len(all_h2)+1)
     h3indexahref=range(1,len(all_items)+1)
-    print(max(h2index),max(h3indexahref))
     
     print("=====================================================================================")
     listarubro=[]#LISTA DE RUBROS
@@ -54,7 +53,9 @@ try:
         if i in listanorma:
             listaseparacion.append(list([i]))
     #================================================FIN LISTA 'RUBRO',['DETALLENORMA']
-    
+
+    #==========================================================
+    #CREACION DE DICCIONARIO {'RUBRO':[DETALLENORMA PERTENECIENTE A CADA RUBRO]}
     diccionarie={}
     def agregar_key(dictio):
         for i in listarubro:
@@ -70,19 +71,7 @@ try:
         return dictio
             
     agregar_key(diccionarie)
-    print(diccionarie)
-    """
-    keys=[]
-    keys.extend(diccionarie.keys())
-    key=keys[0]
-    for i in listaseparacion:
-        if i in keys:
-            key=i
-        else:
-            diccionarie[key].extend(i)
-    print(diccionarie)
-    """
-
+    #====================================================FIN DICCIONARIO{'RUBRO':[DETALLENORMA]}
 except:
     raise
 finally:
