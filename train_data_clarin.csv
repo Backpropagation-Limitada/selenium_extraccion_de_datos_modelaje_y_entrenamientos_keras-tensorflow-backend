@@ -1,0 +1,425 @@
+Inmuebles,Inmuebles
+Inmuebles,Departamentos(3127)
+Inmuebles,Casas(435)
+Inmuebles,Locales Comerciales. Oficinas y Consultorios(325)
+Inmuebles,"Habitaciones en Hoteles, Casas de Familias y Pensiones(207)"
+Automotores,Automotores
+Automotores,Automóviles Nacionales e Importados(633)
+Automotores,"4x4, Pick-up, Vans, Mini Vans, Utilitarios(84)"
+Automotores,"Taxis, Repuestos y Accesorios(37)"
+Automotores,Planes de ahorro y Chocados(30)
+Empleos,Empleos
+Empleos,Oficios y Ocupaciones Varias(659)
+Empleos,"Choferes, Personal de Transporte y Abastecimiento, Autos(291)"
+Empleos,Empleados(111)
+Empleos,"Personal auxiliar de Casas Particulares. Hoteles, Clínicas(92)"
+Servicios,Servicios
+Servicios,Cuidado de Personas(469)
+Servicios,Astrología y Tarot(144)
+Servicios,Construcción y Refacciones(55)
+Servicios,"Mudanzas, Fletes y Logística(55)"
+Contactos,Contactos
+Contactos,Agradecimientos(79)
+Contactos,Solos y Solas(11)
+Contactos,Mensajes y Saludos(2)
+Contactos,Sociales(1)
+Mix,Mix
+Mix,Máquinas y otros materiales para industrias y negocios(36)
+Mix,Mascotas y Animales(18)
+Mix,Hogar y Muebles(15)
+Mix,Boliches y Otros(12)
+Legales,Legales
+Legales,Convocatorias(63)
+Legales,Edictos Judiciales(38)
+Legales,Avisos al Comercio(37)
+Legales,Licitaciones(25)
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Departamentos(3127),Automotores
+Departamentos(3127),Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Departamentos(3127),"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Departamentos(3127),Autos de Colección(2)
+Departamentos(3127),"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automóviles Nacionales e Importados(633),Empleos
+Automóviles Nacionales e Importados(633),"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automóviles Nacionales e Importados(633),Profesionales y Ejecutivos(72)
+Automóviles Nacionales e Importados(633),"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automóviles Nacionales e Importados(633),"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Oficios y Ocupaciones Varias(659),Servicios
+Oficios y Ocupaciones Varias(659),Servicios Automotores y Choferes(39)
+Oficios y Ocupaciones Varias(659),Negocios y Socios(34)
+Oficios y Ocupaciones Varias(659),Salud(20)
+Oficios y Ocupaciones Varias(659),Legales(17)
+Cuidado de Personas(469),Mix
+Cuidado de Personas(469),Sex shops(12)
+Cuidado de Personas(469),"Ofertas, Trueques y Permutas(9)"
+Cuidado de Personas(469),Indumentaria y Accesorios(6)
+Cuidado de Personas(469),"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Automotores
+Inmuebles,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5)
+Inmuebles,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Inmuebles,Autos de Colección(2)
+Inmuebles,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
+Automotores,Empleos
+Automotores,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)"
+Automotores,Profesionales y Ejecutivos(72)
+Automotores,"Enseñanza, Capacitación, Cursos y Docentes(27)"
+Automotores,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Empleos,Servicios
+Empleos,Servicios Automotores y Choferes(39)
+Empleos,Negocios y Socios(34)
+Empleos,Salud(20)
+Empleos,Legales(17)
+Servicios,Mix
+Servicios,Sex shops(12)
+Servicios,"Ofertas, Trueques y Permutas(9)"
+Servicios,Indumentaria y Accesorios(6)
+Servicios,"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,0
+Inmuebles,1
+Inmuebles,2
+Inmuebles,3
+Automotores,0
+Automotores,1
+Automotores,2
+Automotores,3
+Empleos,0
+Empleos,1
+Empleos,2
+Empleos,3
+Servicios,0
+Servicios,1
+Servicios,2
+Servicios,3
+Inmuebles,0
+Inmuebles,1
+Inmuebles,2
+Inmuebles,3
+Automotores,0
+Automotores,1
+Automotores,2
+Automotores,3
+Empleos,0
+Empleos,1
+Empleos,2
+Empleos,3
+Servicios,0
+Servicios,1
+Servicios,2
+Servicios,3
+Inmuebles,0
+Inmuebles,1
+Inmuebles,2
+Inmuebles,3
+Automotores,0
+Automotores,1
+Automotores,2
+Automotores,3
+Empleos,0
+Empleos,1
+Empleos,2
+Empleos,3
+Servicios,0
+Servicios,1
+Servicios,2
+Servicios,3
+Inmuebles,0
+Inmuebles,1
+Inmuebles,2
+Inmuebles,3
+Automotores,0
+Automotores,1
+Automotores,2
+Automotores,3
+Empleos,0
+Empleos,1
+Empleos,2
+Empleos,3
+Servicios,0
+Servicios,1
+Servicios,2
+Servicios,3
+Inmuebles,0
+Inmuebles,1
+Inmuebles,2
+Inmuebles,3
+Automotores,0
+Automotores,1
+Automotores,2
+Automotores,3
+Empleos,0
+Empleos,1
+Empleos,2
+Empleos,3
+Servicios,0
+Servicios,1
+Servicios,2
+Servicios,3
+Inmuebles,Inmuebles
+Inmuebles,Departamentos(3127)
+Inmuebles,Casas(435)
+Inmuebles,Locales Comerciales. Oficinas y Consultorios(325)
+Inmuebles,"Habitaciones en Hoteles, Casas de Familias y Pensiones(207)"
+Automotores,Automotores
+Automotores,Automóviles Nacionales e Importados(633)
+Automotores,"4x4, Pick-up, Vans, Mini Vans, Utilitarios(84)"
+Automotores,"Taxis, Repuestos y Accesorios(37)"
+Automotores,Planes de ahorro y Chocados(30)
+Empleos,Empleos
+Empleos,Oficios y Ocupaciones Varias(659)
+Empleos,"Choferes, Personal de Transporte y Abastecimiento, Autos(291)"
+Empleos,Empleados(111)
+Empleos,"Personal auxiliar de Casas Particulares. Hoteles, Clínicas(92)"
+Servicios,Servicios
+Servicios,Cuidado de Personas(469)
+Servicios,Astrología y Tarot(144)
+Servicios,Construcción y Refacciones(55)
+Servicios,"Mudanzas, Fletes y Logística(55)"
+Contactos,Contactos
+Contactos,Agradecimientos(79)
+Contactos,Solos y Solas(11)
+Contactos,Mensajes y Saludos(2)
+Contactos,Sociales(1)
+Mix,Mix
+Mix,Máquinas y otros materiales para industrias y negocios(36)
+Mix,Mascotas y Animales(18)
+Mix,Hogar y Muebles(15)
+Mix,Boliches y Otros(12)
+Legales,Legales
+Legales,Convocatorias(63)
+Legales,Edictos Judiciales(38)
+Legales,Avisos al Comercio(37)
+Legales,Licitaciones(25)
+Inmuebles,Inmuebles
+Inmuebles,Departamentos(3127)
+Inmuebles,Casas(435)
+Inmuebles,Locales Comerciales. Oficinas y Consultorios(325)
+Inmuebles,"Habitaciones en Hoteles, Casas de Familias y Pensiones(207)"
+Automotores,Automotores
+Automotores,Automóviles Nacionales e Importados(633)
+Automotores,"4x4, Pick-up, Vans, Mini Vans, Utilitarios(84)"
+Automotores,"Taxis, Repuestos y Accesorios(37)"
+Automotores,Planes de ahorro y Chocados(30)
+Empleos,Empleos
+Empleos,Oficios y Ocupaciones Varias(659)
+Empleos,"Choferes, Personal de Transporte y Abastecimiento, Autos(291)"
+Empleos,Empleados(111)
+Empleos,"Personal auxiliar de Casas Particulares. Hoteles, Clínicas(92)"
+Servicios,Servicios
+Servicios,Cuidado de Personas(469)
+Servicios,Astrología y Tarot(144)
+Servicios,Construcción y Refacciones(55)
+Servicios,"Mudanzas, Fletes y Logística(55)"
+Contactos,Contactos
+Contactos,Agradecimientos(79)
+Contactos,Solos y Solas(11)
+Contactos,Mensajes y Saludos(2)
+Contactos,Sociales(1)
+Mix,Mix
+Mix,Máquinas y otros materiales para industrias y negocios(36)
+Mix,Mascotas y Animales(18)
+Mix,Hogar y Muebles(15)
+Mix,Boliches y Otros(12)
+Legales,Legales
+Legales,Convocatorias(63)
+Legales,Edictos Judiciales(38)
+Legales,Avisos al Comercio(37)
+Legales,Licitaciones(25)
